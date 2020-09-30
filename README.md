@@ -1,2 +1,2 @@
 # instagram_clone
-Recriando interface da paǵina principal do Instagram
+Recriando interface da página principal do Instagram
